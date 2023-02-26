@@ -4,7 +4,7 @@ import {ArrowRightCircle} from "react-bootstrap-icons";
 import headerImg from "../assets/img/werewolf.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
-import { isVisible } from "@testing-library/user-event/dist/utils";
+
 
 
 export const Banner = () => {
