@@ -20,8 +20,7 @@
     "react-multi-carousel": "^2.8.2",
     "react-on-screen": "^2.1.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "packageManager": "yarn@3.2.4"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
